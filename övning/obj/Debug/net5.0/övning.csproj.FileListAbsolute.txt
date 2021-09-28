@@ -1,0 +1,16 @@
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\bin\Debug\net5.0\övning.exe
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\bin\Debug\net5.0\övning.deps.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\bin\Debug\net5.0\övning.runtimeconfig.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\bin\Debug\net5.0\övning.runtimeconfig.dev.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\bin\Debug\net5.0\övning.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\bin\Debug\net5.0\ref\övning.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\bin\Debug\net5.0\övning.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\övning.csproj.AssemblyReference.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\övning.AssemblyInfoInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\övning.AssemblyInfo.cs
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\övning.csproj.CoreCompileInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\övning.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\ref\övning.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\övning.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\övning\övning\obj\Debug\net5.0\övning.genruntimeconfig.cache
